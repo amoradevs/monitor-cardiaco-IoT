@@ -3,7 +3,7 @@ Meu projeto IoT da Universidade Presbiteriana Mackenzie. O projeto foi desenvolv
 
 ## <br> Descrição
 Uilizarei o ESP32 para monitoramento de batimentos cardíacos wireless, 
-combinado com o sensor ECG AD8232 e um buzzer como atuador para alertas. O 
+combinado com o sensor ECG AD8232. O 
 desenvolvimento será feito na IDE do Arduino, empregando programação 
 específica para integrar hardware e software, incluindo a comunicação via MQTT 
 para transmissão de dados em tempo real para a plataforma Ubidots.
