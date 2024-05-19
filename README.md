@@ -1,4 +1,4 @@
-# monitor-cardiaco-IoT
+# Monitor_cardiaco_IOT
 Meu projeto IoT da Universidade Presbiteriana Mackenzie. O projeto foi desenvolvido em C++ utilizando a IDE Arduino.
 
 ## <br> Descrição
