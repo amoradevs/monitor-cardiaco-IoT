@@ -114,9 +114,6 @@ Selecione seu dispositivo e variáveis ​​criados anteriormente, conforme mos
 
 ## <br> Funcionamento
 
-Bateria: Uma fonte de 3.7V, como uma bateria LiPo, é adequada para o protótipo, 
-oferecendo tensão necessária para o funcionamento do ESP32 e do sensor ECG 
-AD8232.
 Sensor ECG AD8232: Captura os sinais elétricos do coração e envia para o ESP32.
 ESP32: Processa os dados do sensor ECG e verifica se há alguma anomalia nos 
 batimentos cardíacos. Se algo atípico for detectado, o ESP32 ativa o buzzer.
